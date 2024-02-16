@@ -1,0 +1,9 @@
+streamlit
+google.generativeai
+python-dotenv
+flask
+os
+request
+jsonify
+gunicorn
+
